@@ -1,0 +1,75 @@
+.p1{
+
+
+}
+label{
+    display: inline-block;
+    margin-left: 50px;
+}
+body{
+    background-color: crimson;
+
+}
+form{
+    width: 50%;
+    height: 800px;
+    background-color: maroon;
+    padding: 30px;
+    margin: auto;
+}
+p{
+    margin-left: 50px;
+}
+input[type=text],[type=email],[type=password]{
+    width: 40%;
+    height: 20px;
+    margin-right: 220px;
+    margin-bottom: 5px;
+    float: right;
+  margin-top: 5px;
+
+}
+
+.o,.f,.m{
+
+    margin-left: 120px;
+}
+
+.lll{
+
+}
+
+input[type=radio]{
+margin-left: 10px;
+
+}
+select{
+    width: 250px;
+    height: 40px;
+    background-color: lightgrey;
+    margin-left: 120px;
+}
+
+
+
+div{
+   display:block;
+}
+button{
+    width: 70%;
+    height: 40px;
+    margin-left:100px;
+    font-weight: bolder;
+    font-size: large;
+}
+textarea{
+    margin-left: 147px;
+    width: 40%;
+
+}
+.n{
+    margin-top: 1px;
+}
+.e{
+    margin-bottom: 2px;
+}
